@@ -59,7 +59,7 @@ Nếu không được hãy thử lệnh `python3 zLocket-Tool.py`
 
 >Liên hệ qua các mạng xã hội sau:
 
-- [Facebook](https://www.facebook.com/WusThanhDieu)
-- [Zalo](https://zalo.me/0968091844)
-- [Telegram](https://t.me/WsThanhDieu)
+- [Facebook](https://www.facebook.com/avuxbettis.dev)
+- [Zalo](https://zalo.me/0379677507)
+- [Telegram](https://t.me/avuxbettis)
 ...
